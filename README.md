@@ -11,7 +11,7 @@ Our project focuses on creating a powerful tool for detecting and mitigating bot
 - **Database:** Integrating with Cloudflare's D1 database to store and correlate threat data, providing a centralized hub for security intelligence.
 - **Vulnerability Databases:** Seamlessly integrating with existing vulnerability databases to quickly identify and address known security weaknesses.
 
-# SETUP OF CCLOUDFLARE DATABASE
+## SETUP OF CLOUDFLARE DATABASE
 ```
 npm create@honolatest <project_name>
 cd <project_name>
